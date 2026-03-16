@@ -1,7 +1,7 @@
 aid: defense-technical-information-center
 url: https://raw.githubusercontent.com/api-evangelist/defense-technical-information-center/refs/heads/main/apis.yml
 apis: []
-name: Defense Technical Information Center (DTIC)
+name: Defense Technical Information Center
 tags:
   - Federal Government
 type: Contract
