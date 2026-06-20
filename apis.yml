@@ -13,7 +13,7 @@ description: >-
   Minsky offer programmatic capabilities to authorized users.
 url: https://raw.githubusercontent.com/api-evangelist/defense-technical-information-center/refs/heads/main/apis.yml
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 specificationVersion: '0.19'
 kind: government
 access: 3rd-Party
