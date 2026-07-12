@@ -101,6 +101,8 @@ apis:
       - type: Documentation
         url: https://www.dtic.mil/foia
 common:
+  - type: DomainSecurity
+    url: security/defense-technical-information-center-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/dod-dtic
   - type: LinkedIn
