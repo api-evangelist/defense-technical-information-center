@@ -45,8 +45,8 @@ tags:
   - Defense
   - Department of Defense
   - DTIC
-  - Federal-Government
-  - Knowledge-Management
+  - Federal Government
+  - Knowledge Management
   - Library
   - Research
   - Scientific and Technical Information
@@ -59,6 +59,8 @@ tags_raw:
   - Library
   - Research
   - Scientific and Technical Information
+  - Federal-Government
+  - Knowledge-Management
 created: '2024-12-25'
 modified: '2026-04-28'
 apis:
@@ -71,11 +73,12 @@ apis:
       not publish a developer API.
     humanURL: https://www.dtic.mil
     tags:
-      - Federal-Government
+      - Federal Government
       - Websites
     tags_raw:
       - Federal Government
       - Website
+      - Federal-Government
     properties:
       - type: Documentation
         url: https://www.dtic.mil
