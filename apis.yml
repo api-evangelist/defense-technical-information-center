@@ -139,6 +139,12 @@ apis:
       - type: Documentation
         url: https://www.dtic.mil/foia
 common:
+  - type: Plans
+    url: plans/defense-technical-information-center-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/defense-technical-information-center-rate-limits.yml
+  - type: FinOps
+    url: finops/defense-technical-information-center-finops.yml
   - type: DomainSecurity
     url: security/defense-technical-information-center-domain-security.yml
   - type: GitHubOrganization
