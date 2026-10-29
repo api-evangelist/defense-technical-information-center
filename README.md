@@ -1,4 +1,4 @@
-# Defense Technical Information Center (defense-technical-information-center)
+# Defense Technical Information Center
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,65 +66,106 @@
 
 The Defense Technical Information Center (DTIC) is the U.S. Department of Defense field activity that acquires, manages, and disseminates scientific and technical information from DoD-funded research, development, test, and evaluation. DTIC operates a public Research and Engineering (R&E) Gateway, the Discover service for searching technical reports, the DoDTechSpace and Minsky natural-language platforms for defense researchers, and Dimensions for collaborative discovery. Most DTIC services require authentication tied to DoD or registered-user roles. DTIC does not publicly publish a developer API, though tools such as Dimensions and Minsky offer programmatic capabilities to authorized users.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/defense-technical-information-center/refs/heads/main/apis.yml)
+**Areas:** Defense · Department of Defense · DTIC · Federal Government · Knowledge Management · Library · Research · Scientific and Technical Information
 
-## Scope
+## Defense Technical Information Center on APIs.io
 
-- **Type:** Index
-- **x-type:** government
-- **Position:** Consuming
-- **Access:** 3rd-Party
+Everything profiled for Defense Technical Information Center is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/defense-technical-information-center/](https://apis.io/providers/defense-technical-information-center/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### APIs (5)
 
-- Defense, Department of Defense, DTIC, Federal Government, Knowledge Management, Library, Research, Scientific and Technical Information
+- [DTIC Website](https://apis.io/apis/defense-technical-information-center/defense-technical-information-center-website/) — Public-facing website of the Defense Technical Information Center describing DTIC services, products, and access programs. The site links to Discover, R&E…
+- [DTIC Discover](https://apis.io/apis/defense-technical-information-center/defense-technical-information-center-discover/) — Search platform for DTIC's collection of technical reports and other scientific and technical information assets. Discover offers faceted search, citation…
+- [DTIC Research and Engineering (R&E) Gateway](https://apis.io/apis/defense-technical-information-center/defense-technical-information-center-re-gateway/) — Authenticated portal for DoD researchers and registered users to access DTIC research and engineering resources, planning documents, and program information.
+- [DoDTechSpace](https://apis.io/apis/defense-technical-information-center/defense-technical-information-center-dodtechspace/) — Collaboration platform for DoD scientists, engineers, and program managers operated by DTIC for sharing knowledge, communities of practice, and project…
+- [DTIC FOIA Reading Room](https://apis.io/apis/defense-technical-information-center/defense-technical-information-center-foia/) — Online portal that publishes records released under the Freedom of Information Act. Records are browsable and downloadable but there is no documented API.
 
-## Timestamps
+### Published properties
 
-- **Created:** 2024-12-25
-- **Modified:** 2026-04-28
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
-### DTIC Website
+Authentication, trust centre, and vulnerability disclosure.
 
-Public-facing website of the Defense Technical Information Center describing DTIC services, products, and access programs.
+- [Defense Technical Information Center Domain Security](https://apis.io/security/defense-technical-information-center/defense-technical-information-center-domain-security/)
 
-- **Human URL:** https://www.dtic.mil
+#### Plans and pricing (1)
 
-### DTIC Discover
+Published plans, tiers and prices.
 
-Search platform for DTIC's collection of technical reports and other scientific and technical information assets.
+- [Defense Technical Information Center Plans Pricing](https://apis.io/plans/defense-technical-information-center/defense-technical-information-center-plans-pricing/)
 
-- **Human URL:** https://discover.dtic.mil
+#### Rate limits (1)
 
-### DTIC Research and Engineering (R&E) Gateway
+Published request limits.
 
-Authenticated portal for DoD researchers and registered users to access DTIC research and engineering resources, planning documents, and program information.
+- [Defense Technical Information Center Rate Limits](https://apis.io/rate-limits/defense-technical-information-center/defense-technical-information-center-rate-limits/)
 
-- **Human URL:** https://discover.dtic.mil
+#### FinOps (1)
 
-### DoDTechSpace
+What the API costs to run, by operation.
 
-Collaboration platform for DoD scientists, engineers, and program managers operated by DTIC for sharing knowledge, communities of practice, and project information.
+- [Defense Technical Information Center Finops](https://apis.io/finops/defense-technical-information-center/defense-technical-information-center-finops/)
 
-- **Human URL:** https://www.dodtechspace.mil
+## Where to find this API
 
-### DTIC FOIA Reading Room
-
-Online portal that publishes records released under the Freedom of Information Act.
-
-- **Human URL:** https://www.dtic.mil/foia
-
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.dtic.mil)
 - [Documentation](https://www.dtic.mil/about-dtic)
-- [News](https://www.dtic.mil/dtic-digest)
-- [Contact Us](https://www.dtic.mil/contact-us)
-- [Privacy Policy](https://www.dtic.mil/website-policies)
-- [FOIA](https://www.dtic.mil/foia)
+- [Privacy policy](https://www.dtic.mil/website-policies)
+- [GitHub](https://github.com/dod-dtic)
 
-## Maintainers
+## API Evangelist rating
 
-- **Kin Lane** - kin@apievangelist.com
+**Kin Score 10.7** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 63.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 9.5 |
+| Access clarity | 13.2 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 7.8** — Education & Research
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/defense-technical-information-center/](https://apis.io/providers/defense-technical-information-center/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Defense Technical Information Center: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/defense-technical-information-center/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
